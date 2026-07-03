@@ -1,0 +1,16 @@
+{
+  "item.copper-horns.copper_horn": "Медный рог",
+
+  "instrument.copper-horns.great_copper_horn": "Низвержение Великого Неба",
+  "instrument.copper-horns.old_copper_horn": "Покой Старого Псалма",
+  "instrument.copper-horns.pure_copper_horn": "Жажда Чистых Вод",
+  "instrument.copper-horns.mumble_copper_horn": "Искры Тлеющей Памяти",
+  "instrument.copper-horns.dry_copper_horn": "Порыв Слепого Гнева",
+  "instrument.copper-horns.clear_copper_horn": "Странствие Ясного Нрава",
+  "instrument.copper-horns.fresh_copper_horn": "Мысли Нового Приюта",
+  "instrument.copper-horns.secret_copper_horn": "Слеза Затаённых Вод",
+  "instrument.copper-horns.fearless_copper_horn": "Дар Бесстрашных Вод",
+  "instrument.copper-horns.sweet_copper_horn": "Нега Лунной Любви",
+
+  "subtitles.item.copper_horn.play": "Медный рог играет"
+}
